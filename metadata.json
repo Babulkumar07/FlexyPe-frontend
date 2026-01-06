@@ -1,0 +1,8 @@
+
+{
+  "name": "FlexyPe - Social Proof Wall",
+  "description": "Authentic community feedback and social proof for the FlexyPe ecommerce experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
